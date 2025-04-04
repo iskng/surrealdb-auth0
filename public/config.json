@@ -1,0 +1,6 @@
+{
+  "surrealdb_endpoint": "http://localhost:8000",
+  "auth0_domain": "https://lynxai.us.auth0.com",
+  "auth0_client_id": "zk9QSlMfJB1EG9wcYwTluiNZGfSbEvSg",
+  "auth0_audience": "https://lynxai.com/auth"
+}
